@@ -8,6 +8,7 @@
 breakfast(food = "frosted flake")
   "Morning is the best time for #{food}"
 end 
+
 breakfast("Cinnamon Roll")
 breakfast
 
